@@ -4,7 +4,6 @@ import Money from '@/views/Money.vue';
 import Labels from '@/views/Labels.vue'
 import Statistics from '@/views/Statistics.vue'
 import Notfound from '@/views/Notfound.vue'
-import Home from '../views/Home.vue';
 
 Vue.use(VueRouter);
 

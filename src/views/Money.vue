@@ -1,8 +1,9 @@
 <template>
-    <div>
-        money.vue
-        <Nav/>
-    </div>
+ <div>
+     <Layout>
+         <p>money, 你好！</p>
+     </Layout>
+ </div>
 </template>
 
 <script lang="ts">
