@@ -27,7 +27,7 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      flex-direction: column;
+      flex-direction: column-reverse;
       .icon {
         width: 32px;
         height: 32px;
